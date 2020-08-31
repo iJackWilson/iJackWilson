@@ -1,6 +1,6 @@
 Hi, I'm Jack 👋 keep reading to find out a bit more about me
 
-💼 Product Security Engineer at Moonpig 
+💼 Product Security Engineer at [Moonpig](https://www.moonpig.com)
 
 📍 Manchester, United Kingdom
 
@@ -10,9 +10,9 @@ Hi, I'm Jack 👋 keep reading to find out a bit more about me
 
 📝 [Blog](https://medium.com/@ijw)
 
-[![alt text][1.1]][1] Find me on Twitter
+[![alt text][1.1]][1] [Find me on Twitter](https://www.twitter.com/iJackWilson)
 
-[![alt text][2.1]][2] My work GitHub profile
+[![alt text][2.1]][2] [My work GitHub profile](https://www.github.com/jack-wilson-moonpig)
 
 
 <!-- links to social media icons -->

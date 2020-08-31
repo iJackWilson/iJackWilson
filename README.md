@@ -1,4 +1,5 @@
-### Hi there 👋
+# Jack Wilson
+## Product Security Engineer @ Moonpig
 
 <!--
 **iJackWilson/iJackWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

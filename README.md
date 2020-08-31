@@ -6,9 +6,9 @@ Hi, I'm Jack 👋 keep reading to find out a bit more about me
 
 🎓 Class of '18 BSc (Hons) Ethical Hacking graduate from Abertay University
 
-🌐 https://jack.lu
+🌐 [Website](https://jack.lu)
 
-📝 https://medium.com/@ijw
+📝 [Blog](https://medium.com/@ijw)
 
 [![alt text][1.1]][1] Find me on Twitter
 

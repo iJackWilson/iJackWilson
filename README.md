@@ -6,7 +6,7 @@ Hi, I'm Jack 👋 keep reading to find out a bit more about me
 
 🎓 Class of '18 BSc (Hons) Ethical Hacking graduate from Abertay University
 
-[![alt text][1.1]][1]
+[![alt text][1.1]][1] test
 [![alt text][2.1]][2]
 
 
@@ -15,8 +15,8 @@ Hi, I'm Jack 👋 keep reading to find out a bit more about me
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (iJackWilson)
+[2.1]: http://i.imgur.com/0o48UoR.png (jack-wilson-moonpig)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->

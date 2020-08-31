@@ -1,5 +1,6 @@
-# Jack Wilson
-Hi, I'm Jack 👋 I'm currently working as a Product Security Engineer @ Moonpig
+Hi, I'm Jack 👋🏻
+
+💼 Product Security Engineer at Moonpig 
 
 📍 Manchester, United Kingdom
 

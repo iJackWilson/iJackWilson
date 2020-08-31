@@ -23,7 +23,7 @@ Hi, I'm Jack 👋 keep reading to find out a bit more about me
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/iJackWilson
-[2]: http://www.github.com/iJackWilson
+[2]: http://www.github.com/jack-wilson-moonpig
 
 <!--
 **iJackWilson/iJackWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

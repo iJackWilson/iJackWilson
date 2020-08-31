@@ -10,6 +10,8 @@ Hi, I'm Jack 👋
 
 📝 [Blog](https://medium.com/@ijw)
 
+🗝 [Keybase](https://keybase.io/ijackwilson)
+
 [![alt text][1.1]][1] [Find me on Twitter](https://www.twitter.com/iJackWilson)
 
 [![alt text][2.1]][2] [My work GitHub profile](https://www.github.com/jack-wilson-moonpig)

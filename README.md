@@ -1,4 +1,4 @@
-Hi, I'm Jack 👋🏻
+Hi, I'm Jack 👋
 
 💼 Product Security Engineer at Moonpig 
 

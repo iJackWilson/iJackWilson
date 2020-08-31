@@ -1,5 +1,6 @@
 # Jack Wilson
-## Product Security Engineer @ Moonpig
+Hi, I'm Jack 👋 I'm currently working as a Product Security Engineer @ Moonpig
+📍 Manchester, United Kingdom
 
 <!--
 **iJackWilson/iJackWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

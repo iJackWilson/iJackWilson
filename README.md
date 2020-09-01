@@ -1,16 +1,16 @@
 Hi, I'm Jack 👋
 
-💼 Product Security Engineer at [Moonpig](https://www.moonpig.com)
+💼 &nbsp;&nbsp; Product Security Engineer at [Moonpig](https://www.moonpig.com)
 
-📍 Manchester, United Kingdom
+📍 &nbsp;&nbsp; Manchester, United Kingdom
 
-🎓 Class of '18 BSc (Hons) Ethical Hacking graduate from Abertay University
+🎓 &nbsp;&nbsp;Class of '18 BSc (Hons) Ethical Hacking graduate from Abertay University
 
-🌐 [Website](https://jack.lu)
+🌐 &nbsp;&nbsp;[Website](https://jack.lu)
 
-📝 [Blog](https://medium.com/@ijw)
+📝 &nbsp;&nbsp;[Blog](https://medium.com/@ijw)
 
-🗝 [Keybase](https://keybase.io/ijackwilson)
+🗝 &nbsp;&nbsp;[Keybase](https://keybase.io/ijackwilson)
 
 [![alt text][1.1]][1] [Find me on Twitter](https://www.twitter.com/iJackWilson)
 

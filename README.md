@@ -1,20 +1,20 @@
 Hi, I'm Jack 👋
 
-💼 &nbsp;&nbsp; Product Security Engineer at [Moonpig](https://www.moonpig.com)
+💼 &nbsp;&nbsp; Senior Application Security Engineer at [Vercel](https://vercel.com)
 
-📍 &nbsp;&nbsp; Manchester, United Kingdom
+📍 &nbsp;&nbsp; Perth, Scotland, United Kingdom
 
 🎓 &nbsp;&nbsp;Class of '18 BSc (Hons) Ethical Hacking graduate from Abertay University
 
-🌐 &nbsp;&nbsp;[Website](https://jack.lu)
+🌐 &nbsp;&nbsp;[Website](https://jackwilson.uk)
 
 📝 &nbsp;&nbsp;[Blog](https://medium.com/@ijw)
 
 🗝 &nbsp;&nbsp;[Keybase](https://keybase.io/ijackwilson)
 
-[![alt text][1.1]][1] [Find me on Twitter](https://www.twitter.com/iJackWilson)
+[![alt text][1.1]][1] [Find me on Bluesky](https://bsky.app/profile/jackwilson.uk)
 
-[![alt text][2.1]][2] [My work GitHub profile](https://www.github.com/jack-wilson-moonpig)
+[![alt text][2.1]][2] [My work GitHub profile](https://www.github.com/jackwilson323)
 
 
 <!-- links to social media icons -->
